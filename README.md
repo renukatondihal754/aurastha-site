@@ -93,3 +93,5 @@ public/
 * Fully responsive with mobile-first approach.
 * SEO-friendly and accessible.
 * Smooth animations improve UX without affecting performance.
+
+https://aurastha-site.vercel.app/
